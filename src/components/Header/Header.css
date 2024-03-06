@@ -1,0 +1,9 @@
+.menu {
+    display: flex;
+    text-align: center;
+}
+
+.menu img {
+    max-width: 20%;
+    margin-right: 30px;
+}
